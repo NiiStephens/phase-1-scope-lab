@@ -16,5 +16,5 @@ var customerName = 'bob';
 
  const leastFavoriteCustomer = 'Abena';
  function changeLeastFavoriteCustomer() {
-    return leastFavoriteCustomer = 'CHANGE';
+    return leastFavoriteCustomer = 'Adwoa';
  } 
